@@ -36,8 +36,8 @@ export default {
 <style>
 .avatar {
   vertical-align: middle;
-  width: 150px;
-  height: 150px;
+  width: 250px;
+  height: 250px;
   border-radius: 50%;
 }
 
